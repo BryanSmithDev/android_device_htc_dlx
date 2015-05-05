@@ -1,12 +1,12 @@
 [
     {
-        "remote":       "cm",
+        "remote":       "github",
         "repository":   "CyanogenMod/android_device_htc_msm8960-common",
         "target_path":  "device/htc/msm8960-common",
         "revision":     "cm-12.1"
     },
     {
-        "remote":       "cm",
+        "remote":       "github",
         "repository":   "CyanogenMod/android_kernel_htc_m7",
         "target_path":  "kernel/htc/m7",
         "revision":     "cm-12.1"
